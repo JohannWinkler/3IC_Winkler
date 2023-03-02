@@ -23,7 +23,6 @@ public class SUV extends Vehicle {
      */
     public void lockDiff() {
         // TODO implement here
-        return null;
     }
 
 }

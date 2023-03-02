@@ -28,7 +28,6 @@ public class Engine {
      */
     public void openEGR() {
         // TODO implement here
-        return null;
     }
 
 }
