@@ -1,5 +1,11 @@
 <h1>Übungsrepository von Johann Winkler. Klasse 3IC</h1>
 
+<h3>Vererbung:</h3>
+Erste Übung wo wir Vererbung und Abstrakte Klassen verwenden. Link zur Aufgabenstellung: https://www.eduvidual.at/mod/page/view.php?id=4620927
+
+<h3>Generated Vehicel Model:</h3>
+Der Autogenerierte Code von der UML Aufgabe
+
 <h3>BMI Calculator:</h3>
 Erste Übung. Link zur Übung: https://www.eduvidual.at/pluginfile.php/5308701/mod_resource/content/3/Exception.pdf
 
