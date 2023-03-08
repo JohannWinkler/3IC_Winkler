@@ -21,4 +21,12 @@ public abstract class Wasserfahrzeug {
     public void fahre() {
         System.out.println("Das Wasserfahrzeug " + name + " fährt.");
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public double getPreis() {
+        return preis;
+    }
 }

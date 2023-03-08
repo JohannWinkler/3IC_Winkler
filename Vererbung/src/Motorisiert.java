@@ -15,4 +15,9 @@ public abstract class Motorisiert extends Wasserfahrzeug {
         System.out.println("Preis: " + preis);
         System.out.println("Leistung: " + leistung);
     }
+
+    @Override
+    public double getPreis() {
+        return super.getPreis();
+    }
 }
