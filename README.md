@@ -1,5 +1,8 @@
 <h1>Übungsrepository von Johann Winkler. Klasse 3IC</h1>
 
+<h3>Thread</h3>
+Übung wo wir Threads verwenden. Ein Producer produziert zahlen, ein Verbraucher verbraucht diese. Link zur Aufgabenstellung: https://www.eduvidual.at/mod/resource/view.php?id=4544515
+<br><hr>
 <h3>Vererbung:</h3>
 Erste Übung wo wir Vererbung und Abstrakte Klassen verwenden. Link zur Aufgabenstellung: https://www.eduvidual.at/mod/page/view.php?id=4620927
 <br><hr>
