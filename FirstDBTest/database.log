@@ -1,0 +1,66 @@
+2023-03-23T11:57:58.561500500 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T11:57:58.576495800 - Abfrage ausgeführt: SELECT * FROM arbeiter
+2023-03-23T11:57:58.594494900 - Verbindung geschlossen
+2023-03-23T11:58:01.724237600 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T11:58:01.735243400 - Abfrage ausgeführt: SELECT * FROM arbeiter
+2023-03-23T11:58:01.748732700 - Verbindung geschlossen
+2023-03-23T11:59:05.725040500 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T11:59:05.740040100 - Abfrage ausgeführt: SELECT * FROM arbeiter
+2023-03-23T12:00:33.806927200 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:00:33.816933900 - Abfrage ausgeführt: SELECT * FROM arbeiter WHERE name LIKE ?
+2023-03-23T12:00:50.660257 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:00:50.673253300 - Abfrage ausgeführt: SELECT * FROM arbeiter WHERE vorname LIKE ?
+2023-03-23T12:01:44.768517800 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:01:44.782520600 - Abfrage ausgeführt: SELECT * FROM arbeiter WHERE vorname LIKE ?
+2023-03-23T12:01:44.878525600 - Verbindung geschlossen
+2023-03-23T12:02:10.147327200 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:02:10.158332300 - Abfrage ausgeführt: SELECT * FROM arbeiter WHERE vorname LIKE ?
+2023-03-23T12:02:10.247323800 - Verbindung geschlossen
+2023-03-23T12:03:19.341399100 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:03:19.360396500 - Abfrage ausgeführt: SELECT * FROM arbeiter WHERE vorname LIKE ?
+2023-03-23T12:03:19.499398200 - Verbindung geschlossen
+2023-03-23T12:07:40.184741 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:07:40.195749200 - Abfrage ausgeführt: SELECT * FROM arbeiter WHERE vorname LIKE ?
+2023-03-23T12:07:40.274751300 - Verbindung geschlossen
+2023-03-23T12:10:35.586324 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:10:35.598316900 - Abfrage ausgeführt: SELECT * FROM arbeiter WHERE vorname LIKE ?
+2023-03-23T12:10:35.702316600 - Verbindung geschlossen
+2023-03-23T12:10:35.711316700 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:10:35.712321400 - Abfrage ausgeführt: INSERT INTO arbeiter (ID, vorname, nachname) VALUES (?, ?, ?)
+2023-03-23T12:10:35.733311300 - Verbindung geschlossen
+2023-03-23T12:10:35.742317600 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:10:35.743320300 - Abfrage ausgeführt: SELECT * FROM arbeiter WHERE vorname LIKE ?
+2023-03-23T12:10:35.746319700 - Verbindung geschlossen
+2023-03-23T12:16:28.532379 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:16:28.544375900 - Abfrage ausgeführt: SELECT * FROM arbeiter
+2023-03-23T12:16:28.632374 - Verbindung geschlossen
+2023-03-23T12:16:28.642376700 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:16:28.643377800 - Abfrage ausgeführt: INSERT INTO arbeiter (ID, vorname, nachname) VALUES (?, ?, ?)
+2023-03-23T12:16:28.652375500 - Verbindung geschlossen
+2023-03-23T12:16:28.659378 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:16:28.660376600 - Abfrage ausgeführt: SELECT * FROM arbeiter
+2023-03-23T12:16:28.664375400 - Verbindung geschlossen
+2023-03-23T12:17:08.506873800 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:17:08.517871600 - Abfrage ausgeführt: INSERT INTO arbeiter (ID, vorname, nachname) VALUES (?, ?, ?)
+2023-03-23T12:17:08.554868 - Verbindung geschlossen
+2023-03-23T12:17:08.562873 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:17:08.563872 - Abfrage ausgeführt: SELECT * FROM arbeiter
+2023-03-23T12:17:08.620876100 - Verbindung geschlossen
+2023-03-23T12:18:27.105241900 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:18:27.116242300 - Abfrage ausgeführt: INSERT INTO arbeiter (ID, vorname, nachname) VALUES (?, ?, ?)
+2023-03-23T12:18:52.315690 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:18:52.325688200 - Abfrage ausgeführt: SELECT * FROM arbeiter
+2023-03-23T12:18:52.404687700 - Verbindung geschlossen
+ 
+2023-03-23T12:18:55.495109400 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:18:55.507112300 - Abfrage ausgeführt: SELECT * FROM arbeiter
+2023-03-23T12:18:55.589111900 - Verbindung geschlossen
+ 
+2023-03-23T12:19:05.437582500 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:19:05.447580900 - Abfrage ausgeführt: SELECT * FROM arbeiter
+2023-03-23T12:19:05.530576900 - Verbindung geschlossen
+ 
+2023-03-23T12:19:09.374153600 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T12:19:09.387162800 - Abfrage ausgeführt: SELECT * FROM arbeiter
+2023-03-23T12:19:09.474155800 - Verbindung geschlossen
+ 
