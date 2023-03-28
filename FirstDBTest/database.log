@@ -64,3 +64,15 @@
 2023-03-23T12:19:09.387162800 - Abfrage ausgeführt: SELECT * FROM arbeiter
 2023-03-23T12:19:09.474155800 - Verbindung geschlossen
  
+2023-03-23T13:16:10.887176500 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T13:16:10.897177300 - Abfrage ausgeführt: SELECT * FROM arbeiter
+2023-03-23T13:16:10.981181500 - Verbindung geschlossen
+ 
+2023-03-23T13:16:47.231060900 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T13:16:47.243059 - Abfrage ausgeführt: SELECT * FROM arbeiter WHERE vorname LIKE ?
+2023-03-23T13:16:47.334057500 - Verbindung geschlossen
+ 
+2023-03-23T13:16:55.925658700 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-23T13:16:55.937639800 - Abfrage ausgeführt: SELECT * FROM arbeiter
+2023-03-23T13:16:56.036632300 - Verbindung geschlossen
+ 

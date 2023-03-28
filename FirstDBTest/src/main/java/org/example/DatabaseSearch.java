@@ -32,7 +32,8 @@ public class DatabaseSearch {
                 while (resultSet.next()) {
                     String vorname = resultSet.getString("vorname");
                     String nachname = resultSet.getString("nachname");
-                    System.out.println("Arbeitername: " + vorname + " " + nachname);
+                    String id = resultSet.getString("ID");
+                    System.out.println("ID: " + id + ", Arbeitername: " + vorname + " " + nachname);
                 }
             }
         }
