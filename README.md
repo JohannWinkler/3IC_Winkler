@@ -1,7 +1,7 @@
 <h1>Übungsrepository von Johann Winkler. Klasse 3IC</h1>
 
 <h3>FirstDBTest</h3>
-Übung wo wir in Java eine MySQL Datenbank mit XAMPP Server integriert haben, inserts und Selects geschrieben und einen Logger dazugebaut haben. Link zur Aufgabenstellung: https://www.eduvidual.at/pluginfile.php/5308742/mod_resource/content/5/%C3%9Cbung%20Java-MySQL-N.pdf
+Übung wo wir in Java eine MySQL Datenbank mit XAMPP Server integriert haben, inserts und selects geschrieben und einen logger dazugebaut haben. Link zur Aufgabenstellung: https://www.eduvidual.at/pluginfile.php/5308742/mod_resource/content/5/%C3%9Cbung%20Java-MySQL-N.pdf
 <br><hr>
 <h3>Thread</h3>
 Übung wo wir Threads verwenden. Ein Producer produziert zahlen, ein Verbraucher verbraucht diese. Link zur Aufgabenstellung: https://www.eduvidual.at/mod/resource/view.php?id=4544515
