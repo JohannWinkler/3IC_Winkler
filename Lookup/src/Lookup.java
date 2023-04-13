@@ -7,7 +7,7 @@ public class Lookup {
     private Vector<Host> hosts;
 
     public Lookup() {
-        this.hosts = new Vector<>();
+        this.hosts = new Vector<Host>();
     }
 
     public void myLookup(String name) {
@@ -16,7 +16,7 @@ public class Lookup {
             for (InetAddress address : addresses) {
                 System.out.println(address);
                 this.hosts.add(new Host(address.getHostName(), address.getHostAddress()));
-                System.out.println(validate(name));
+                System.out.println("IP Adresse eingegeben: " + validate(name));
             }
         } catch (UnknownHostException e) {
             System.err.println("Unknown host: " + name);
