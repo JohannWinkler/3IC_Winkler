@@ -76,3 +76,9 @@
 2023-03-23T13:16:55.937639800 - Abfrage ausgeführt: SELECT * FROM arbeiter
 2023-03-23T13:16:56.036632300 - Verbindung geschlossen
  
+2023-03-28T11:53:15.961764200 - Abfrage ausgeführt: SELECT * FROM arbeiter
+2023-03-28T11:54:42.884189300 - Abfrage ausgeführt: SELECT * FROM arbeiter
+2023-03-28T12:06:50.869400700 - Verbindung hergestellt: jdbc:mysql://localhost:3306/fertigung
+2023-03-28T12:06:50.881403700 - Abfrage ausgeführt: SELECT * FROM arbeiter
+2023-03-28T12:06:51.015394500 - Verbindung geschlossen
+ 

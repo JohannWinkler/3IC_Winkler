@@ -114,18 +114,10 @@ public class Main extends JFrame implements ActionListener {
         } else if (e.getSource() == bGleich) {
             num2 = Integer.parseInt(tf.getText());
             switch (operator) {
-                case '+':
-                    result = num1 + num2;
-                    break;
-                case '-':
-                    result = num1 - num2;
-                    break;
-                case '*':
-                    result = num1 * num2;
-                    break;
-                case '/':
-                    result = num1 / num2;
-                    break;
+                case '+' -> result = num1 + num2;
+                case '-' -> result = num1 - num2;
+                case '*' -> result = num1 * num2;
+                case '/' -> result = num1 / num2;
             }
             tf.setText(String.valueOf(result));
         }
