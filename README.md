@@ -1,5 +1,8 @@
 <h1>Übungsrepository von Johann Winkler. Klasse 3IC</h1>
 
+<h3>Lookup</h3>
+Übung wo wir unseren eigenen nslookup geschrieben haben. Die eingegebenen name werden aufgelöst, es wird per Regex kontrolliert ob eine IP adresse eingegeben wurde, die IP adresse und Name werden in einer serialisierte Datei gespeichert und können wieder geladen werden wo die Inhalte ausgegeben werden. Link zur Aufgabenstellung: https://www.eduvidual.at/mod/assign/view.php?id=4544528
+<br><hr>
 <h3>FirstDBTest</h3>
 Übung wo wir in Java eine MySQL Datenbank mit XAMPP Server integriert haben, inserts und selects geschrieben und einen logger dazugebaut haben. Link zur Aufgabenstellung: https://www.eduvidual.at/pluginfile.php/5308742/mod_resource/content/5/%C3%9Cbung%20Java-MySQL-N.pdf
 <br><hr>
