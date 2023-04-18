@@ -1,5 +1,9 @@
 <h1>Übungsrepository von Johann Winkler. Klasse 3IC</h1>
 
+<h3>UDP-Client/Server</h3>
+Übung wo wir einen UDP Server sowie Client gemacht haben. Der Server wartet auf eine request vom Client mit den daten: User, Timestamp, Message. Und der Server schickt anschließend eine Antwort mit einem zufälligen Zitat welches in einer txt file gespeichert ist. Der Client zeigt dieses Zitat an.
+Link zur Aufgabenstellung: https://www.eduvidual.at/mod/assign/view.php?id=4544529
+<br><hr>
 <h3>Lookup</h3>
 Übung wo wir unseren eigenen nslookup geschrieben haben. Die eingegebenen name werden aufgelöst, es wird per Regex kontrolliert ob eine IP adresse eingegeben wurde, die IP adresse und Name werden in einer serialisierte Datei gespeichert und können wieder geladen werden wo die Inhalte ausgegeben werden. Link zur Aufgabenstellung: https://www.eduvidual.at/mod/assign/view.php?id=4544528
 <br><hr>
