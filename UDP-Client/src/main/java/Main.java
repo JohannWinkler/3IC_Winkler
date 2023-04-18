@@ -1,16 +1,14 @@
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import java.io.DataInput;
 import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
-import java.text.BreakIterator;
 import java.text.ParseException;
 import java.time.LocalDateTime;
 
-public class SendMessage {
+public class Main {
     private static final int BUFSIZE = 508;
 
     public static void main(String[] args) throws ParseException {

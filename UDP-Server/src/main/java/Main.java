@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class ReceiveMessages {
+public class Main {
     private static final int BUFSIZE = 508;
     private static List<Quote> quotes = new ArrayList<>();
 
